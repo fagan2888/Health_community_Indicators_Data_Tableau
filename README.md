@@ -19,4 +19,8 @@ cities like Santa Clara, San Diego,Ameda.The analaysis shows a clear distributio
 the 3 major races are White,Latino,Asian.There are the cases to considered since they are not born in the same demographical area.The changes
 in estimate or number of people who are age below 25 having a degree , doesn't have more than a 10 percent of increase in any of the 
 counties, this is should be taken into account.
-
+<img width="487" alt="summary" src="https://user-images.githubusercontent.com/21689911/39707439-0ebcb7e4-51da-11e8-9a20-4eacfaf25367.PNG">
+<img width="466" alt="santaclara" src="https://user-images.githubusercontent.com/21689911/39707532-54e10d7e-51da-11e8-8100-007790f6731c.PNG">
+<img width="511" alt="sandiego" src="https://user-images.githubusercontent.com/21689911/39707552-63a4af00-51da-11e8-9433-9c813014b478.PNG">
+<img width="490" alt="losangles" src="https://user-images.githubusercontent.com/21689911/39707584-74d59352-51da-11e8-9a8e-346d33cfedfe.PNG">
+<img width="476" alt="ameda" src="https://user-images.githubusercontent.com/21689911/39707608-84aebbfa-51da-11e8-9245-aeb1fbc09c4c.PNG">
